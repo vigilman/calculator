@@ -1,6 +1,7 @@
 # Calculator lab project
 ## How to run it
-Coming in Week 3
+Run: python3 calculator.py
+Opreations: + - * / (two numbers)
 
 This project is a simple calculator that performs basic arithmetic opreation,
  including addition, subtracton, mutipilication and division.
