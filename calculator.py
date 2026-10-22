@@ -12,9 +12,9 @@ def divide(a,b):
 
 def main():
 	while True:
-		a = float(input("First number:   "))
-		op = input("Operator (+ - * /):   ")
-		b = float(input("Second number:  "))
+		a = float(input("First number: "))
+		op = input("Operator (+ - * /): ")
+		b = float(input("Second number: "))
 		if op == "+":
 			print("Result:", add(a,b))
 		elif op == "-":
