@@ -5,7 +5,7 @@ def add(a,b):
 def subtract(a,b):
 	return a - b
 
-def mutiply(a,b):
+def multiply(a,b):
 	return a * b
 
 def divide(a,b):
@@ -21,7 +21,7 @@ def main():
 		elif op == "-":
 			print("Result:", subtract(a,b))
 		elif op == "*":
-                        print("Result:", mutiply(a,b))
+                        print("Result:", multiply(a,b))
 		elif op == "/":
                         print("Result:", divide(a,b))
 		else:
